@@ -6,6 +6,7 @@ A robust system of individual identification and alerting mechanism is developed
 The main architecture shown represents the system as a whole and the operation involved and the way the 3 phases created is working together for the purpose of fugitive recognition. 
 
 ![image](https://github.com/krishnapranayangara/Fugitive_Recognition/assets/33367492/98ef2b27-f150-49b0-bc28-0d82bbb41197)
+<img src="[https://github.com/favicon.ico](https://github.com/krishnapranayangara/Fugitive_Recognition/assets/33367492/98ef2b27-f150-49b0-bc28-0d82bbb41197)" width="48">
 when the fugitive is recognized then an alert message will be sent to the authorized personnel through SMS alert.
 
 A robust system of individual identification and alerting mechanism is developed using computer vision and networking that will help in efficient surveillance system and using modern technology for the making this city and nation a safer place to be in. The model being deployed into the system can be used as back-end software and pre-installed cameras will be acting as the required hardware. 
