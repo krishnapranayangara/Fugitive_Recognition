@@ -5,7 +5,7 @@ A robust system of individual identification and alerting mechanism is developed
 
 The main architecture shown represents the system as a whole and the operation involved and the way the 3 phases created is working together for the purpose of fugitive recognition. 
 
-<img src="https://github.com/krishnapranayangara/Fugitive_Recognition/assets/33367492/98ef2b27-f150-49b0-bc28-0d82bbb41197" width="500" height="300">
+<img src="https://github.com/krishnapranayangara/Fugitive_Recognition/assets/33367492/98ef2b27-f150-49b0-bc28-0d82bbb41197" width="300" height="300">
 
 
 
